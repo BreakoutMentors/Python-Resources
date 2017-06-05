@@ -66,6 +66,6 @@ def square_number(num):
 ```
 
 ```python
-answer = squared(5)
+answer = square_number(5)
 ```
 
