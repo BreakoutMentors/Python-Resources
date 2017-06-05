@@ -1,7 +1,7 @@
 # Text Output Programs
 
 [Python syntax and user input](syntax.md)
-* Challenge 1: Create a new Python file to try out the example commands
+* Challenge 1: Create a new Python file in Trinket to try out the example commands
 * Challenge 2: Create your own question-answer conversation or mini-quiz game
 
 [Number Guessing Game](https://trinket.io/library/trinkets/920e5a0a8d)
@@ -16,4 +16,7 @@
 * Challenge 3: Can you make it ask a series of 10 different questions?
 * Challenge 4: What would make it more fun? More levels? Difficulty controls?
 * If you want a timer, [check out this example](https://trinket.io/library/trinkets/fc03a2d5b8)
+
+[Hailstone Sequence](hailstone.md)
+* Challenge 1: Write your own program that asks the user to enter a number and prints the hailstone sequence
 
