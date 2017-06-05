@@ -1,6 +1,7 @@
 # Text Output Programs
 
-[Number Guessing Game](https://trinket.io/library/trinkets/920e5a0a8d){:target="_blank"}
+<a href="https://trinket.io/library/trinkets/920e5a0a8d" target="_blank">Number Guessing Game</a>
+
 * Challenge 1: Give the pirate your name
 * Challenge 2: Change the game to be guessing numbers between 1 and 200
 * Challenge 3: How many guesses should you give to make it hard but not impossible?
