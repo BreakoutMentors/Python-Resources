@@ -1,9 +1,9 @@
 The hailstone sequence is a cool number pattern that for any positive whole number, it will always end in one. It repeats the following steps until it gets to one: 
-* if the number is even, it will divide by two
-* if the number is odd, it will multiply by three and add one.
+* If the number is even, it will divide by two
+* If the number is odd, it will multiply by three and add one.
 
 Here is an example sequence that starts with the number 7:
-
+```
 7
 22
 11
@@ -21,7 +21,7 @@ Here is an example sequence that starts with the number 7:
 4
 2
 1
-
+```
 It took 16 steps!
 
 How can you make this into a program? It should ask the user to enter a number, output the number at every step, and count how many steps it took to finish.
