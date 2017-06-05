@@ -34,3 +34,15 @@
 * Challenge 3: What other variables will you need to remember the random words?
 * Challenge 4: Can you print out a random sentence?
 <br><br>
+
+[Coin Flip Simulator](https://trinket.io/library/trinkets/4f47ed2fe1)
+* Challenge 1: Finish the function to make the program work
+* Hint: Pick a random number and use if/else
+* Bonus challenge: how many coin flips does it take before you get 10 heads in a row?
+
+[Dice Roll Simulator](https://trinket.io/library/trinkets/720d177859)
+* Challenge 1: Finish the function to make the program work
+* Challenge 2: how many rolls before you roll 12 twice in a row?
+* Bonus challenge: can you change the program to roll 3 dice? How many slots would you have to add to the array?
+
+
