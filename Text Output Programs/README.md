@@ -20,3 +20,12 @@
 [Hailstone Sequence](hailstone.md)
 * Challenge 1: Write your own program that asks the user to enter a number and prints the hailstone sequence
 
+[Lists and Functions](lists%20and%20functions.py)
+* Challenge 1: Create a new Python file in Trinket to try out the example commands
+
+[Silly Sentence Generator](https://trinket.io/library/trinkets/8eada859d8)
+* Challenge 1: Add your own words to the verb list
+* Challenge 2: What other lists will you need to create?
+* Challenge 3: What other variables will you need to remember the random words?
+* Challenge 4: Can you print out a random sentence?
+
