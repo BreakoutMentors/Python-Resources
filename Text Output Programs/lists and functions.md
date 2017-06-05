@@ -1,5 +1,4 @@
 # Lists and Functions
-<br><br>
 
 ## Lists
 
