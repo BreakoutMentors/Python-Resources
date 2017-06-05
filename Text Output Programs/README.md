@@ -1,7 +1,8 @@
 # Text Output Programs
 
 [Python syntax and user input](syntax.md)
-* Challenge 1: Create your own question-answer conversation or mini-quiz game
+* Challenge 1: Create a new Python file to try out the example commands
+* Challenge 2: Create your own question-answer conversation or mini-quiz game
 
 [Number Guessing Game](https://trinket.io/library/trinkets/920e5a0a8d)
 * Challenge 1: Give the pirate your name
