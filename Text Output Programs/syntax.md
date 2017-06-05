@@ -34,7 +34,7 @@ your_age = int(input("What is your age?"))
 ## Loops
 ```python
 for x in range(10):
-  print "Hello"
+  print "Hello", x
 ```
 
 ```python
