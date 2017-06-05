@@ -24,7 +24,7 @@
 * Challenge 1: Write your own program that asks the user to enter a number and prints the hailstone sequence
 <br><br>
 
-[Lists and Functions](lists%20and%20functions.py)
+[Lists and Functions](lists%20and%20functions.md)
 * Challenge 1: Create a new Python file in Trinket to try out the example commands
 <br><br>
 
