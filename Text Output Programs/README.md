@@ -3,6 +3,7 @@
 [Python syntax and user input](syntax.md)
 * Challenge 1: Create a new Python file in Trinket to try out the example commands
 * Challenge 2: Create your own question-answer conversation or mini-quiz game
+* Challenge 3: Create your own [Echo Chamber](echo%20chamber.md)
 <br><br>
 
 [Number Guessing Game](https://trinket.io/library/trinkets/920e5a0a8d)
