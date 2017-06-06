@@ -31,7 +31,6 @@ Background:
 ```python
 background(0, 255, 208)
 ```
-or:
 ```python
 background(c1) #using a color variable
 ```
@@ -39,6 +38,9 @@ background(c1) #using a color variable
 Shape color:
 ```python
 fill(40, 200, 40)
+```
+```python
+fill(c1) #using a color variable
 ```
 ```python
 noFill()
@@ -52,3 +54,14 @@ strokeWeight(5)
 ```python
 noStroke()
 ```
+
+## Text
+```python
+textSize(20)
+text("Hello World", 250, 380)
+```
+
+## Images
+First find an image you want to use on the internet. PNGs can have transparent backgrounds.
+
+Take a look at this [image example](https://trinket.io/library/trinkets/2b1216561d).
