@@ -16,3 +16,39 @@ ellipse(200, 200, 20, 20)
 rect(300, 100, 40, 40)
 triangle(20, 20, 20, 40, 40, 40)
 ```
+
+
+
+## Color
+Computers use Red, Green, Blue numbers between 0 and 255. Go to http://colorpicker.com/ to determine the RGB values for the colors you want.
+
+Color as a variable:
+```python
+c1 = color(240, 0, 50)
+```
+
+Background:
+```python
+background(0, 255, 208)
+```
+or:
+```python
+background(c1) #using a color variable
+```
+
+Shape color:
+```python
+fill(40, 200, 40)
+```
+```python
+noFill()
+```
+
+Shape outline:
+```python
+stroke(120, 120, 120)
+strokeWeight(5)
+```
+```python
+noStroke()
+```
