@@ -7,5 +7,6 @@
 - Challenge 4: Can you reset the game when the ball hits the bottom edge?
 - Challenge 5: Can you add a score label?
 - Challenge 6: What would make it more fun?
+- Hint: See the [finished version](https://trinket.io/library/trinkets/c1e47938a0)
 <br><br>
 
