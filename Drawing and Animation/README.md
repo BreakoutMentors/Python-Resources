@@ -21,6 +21,7 @@
 - Challenge 4: Can you make those circles have a random radius between 5 and 15?
 - Challenge 5: Can you add random rectangles too?
 - Bonus challenge: What would make it look cooler?
+<br><br>
 
 [Animation](https://trinket.io/library/trinkets/2081273daf)
 - Challenge 1: Can you make the ball appear lower on the screen?
@@ -29,5 +30,3 @@
 - Challenge 4: Can you make the ball switch directions when it hits an edge? (So it just keeps bouncing back and forth. Hint: might need a new variable.)
 - Challenge 5: Can you make the ball double in speed with each bounce? (You might need to give it a max speed too.)
 - Challenge 6: Can you add an image that travels in both the x and y directions, bouncing off all four walls?
-
-
