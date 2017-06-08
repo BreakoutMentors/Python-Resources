@@ -8,5 +8,15 @@
 - Challenge 5: Can you add a score label?
 - Challenge 6: What would make it more fun?
 - Hint: See the [finished version](https://trinket.io/library/trinkets/c1e47938a0)
+- Bonus challenge: Can you turn the game into a 2-player game of Pong? Hit the 'Duplicate' button so both versions are saved.
 <br><br>
 
+[Snake](https://trinket.io/library/trinkets/55bff16f67)
+- Challenge 1: Can you get the movement in all 4 directions working? (Hint: look at both `keyPressed()` and `moveEverything()` functions)
+- Challenge 2: What should happen when you hit the edge?
+- Challenge 3: Can you add a random target to collect? (Hint: it would be great to have a function that can do this)
+- Challenge 4: Can you call the `snakeHitTarget()` function to determine when you collected the target? Your score should increase, the snake speed should increase, and the target should go to a new random location.
+- Challenge 5: Can you add a score label?
+- Challenge 6: What would make it more fun?
+- Hint: See the [finished version](https://trinket.io/library/trinkets/585b9609a0)
+<br><br>
