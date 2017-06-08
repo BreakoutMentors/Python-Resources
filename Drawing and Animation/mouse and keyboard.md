@@ -8,6 +8,7 @@ print(mouse.y)
 
 
 ## Mouse Clicked
+Has to go before the `run()` call.
 ```python
 def mouseClicked():
   print "yes"
@@ -19,6 +20,7 @@ print(mouse.pressed)
 ```
  
 ## Key Pressed
+Has to go before the `run()` call.
 ```python
 def keyPressed():
   print(keyboard.key)
