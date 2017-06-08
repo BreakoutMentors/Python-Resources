@@ -36,3 +36,11 @@
 - Challenge 1: Can you change it to a left to right movement for the balls?
 - Challenge 2: Can you add a character that goes to where the mouse is to make it look more like a shooting motion?
 - Bonus challenge: What would make it look cooler?
+<br><br>
+
+[Ball Splitting Animation](https://trinket.io/library/trinkets/13aab8492f)
+- Challenge 1: Read the code to see how it works
+- Challenge 2: Can you make it split into 3 instead of 2?
+- Bonus challenge: What would make it look cooler?
+<br><br>
+
