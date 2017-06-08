@@ -30,3 +30,8 @@
 - Challenge 4: Can you make the ball switch directions when it hits an edge? (So it just keeps bouncing back and forth. Hint: might need a new variable.)
 - Challenge 5: Can you make the ball double in speed with each bounce? (You might need to give it a max speed too.)
 - Challenge 6: Can you add an image that travels in both the x and y directions, bouncing off all four walls?
+
+[Animation with Lists](https://trinket.io/library/trinkets/cfa17d968e)
+- Challenge 1: Can you change it to a left to right movement for the balls?
+- Challenge 2: Can you add a character that goes to where the mouse is to make it look more like a shooting motion?
+- Bonus challenge: What would make it look cooler?
