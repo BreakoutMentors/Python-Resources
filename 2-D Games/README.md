@@ -20,3 +20,5 @@
 - Challenge 6: What would make it more fun?
 - Hint: See the [finished version](https://trinket.io/library/trinkets/585b9609a0)
 <br><br>
+
+[Jump Game](https://trinket.io/library/trinkets/d502a87209)
