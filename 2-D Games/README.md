@@ -21,4 +21,11 @@
 - Hint: See the [finished version](https://trinket.io/library/trinkets/585b9609a0)
 <br><br>
 
-[Jump Game](https://trinket.io/library/trinkets/d502a87209)
+[Jump Game](https://trinket.io/library/trinkets/9ff495bca1)
+- Challenge 1: Can you restart the goomba at the right time?
+- Challenge 2: Can you make Mario jump when you hit space bar? (Hint: there are 3 states for Mario - on the ground, moving up, and moving down)
+- Challenge 3: Can you stop the game when Mario hits the goomba?
+- Challenge 4: When should the score go up?
+- Challenge 5: What would make it more fun?
+- Hint: See the [finished version](https://trinket.io/library/trinkets/d502a87209)
+<br><br>
