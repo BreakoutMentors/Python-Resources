@@ -30,7 +30,7 @@
 - Hint: See the [finished version](https://trinket.io/library/trinkets/d502a87209)
 <br><br>
 
-More Examples
+More Examples: 
 - [Mouse Maze](https://trinket.io/python/01ad6f3b2a)
 - [Flappy Bird](https://trinket.io/python/abc1389776)
 - [Breakout](https://trinket.io/python/f3532e2f34)
