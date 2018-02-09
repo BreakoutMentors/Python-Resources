@@ -11,7 +11,7 @@
 - Challenge 2: Can you create a small text label on the screen (not printed to the console) that shows the mouse location?
 - Challenge 3: Can you create a new shape whenever the mouse is clicked?
 - Challenge 4: Can you make your earlier drawing interactive depending upon where your mouse is? Ideas are changing the location of the eyes or background color.
-- Bonus challenge: Can you create a paint application?
+- Bonus challenge: Can you create a paint application? Example: [Paint](https://trinket.io/library/trinkets/f083bab647)
 <br><br>
 
 [Random Art](https://trinket.io/library/trinkets/3a0ad9e3a6)
