@@ -34,3 +34,5 @@ More Examples:
 - [Mouse Maze](https://trinket.io/python/01ad6f3b2a)
 - [Flappy Bird](https://trinket.io/python/abc1389776)
 - [Breakout](https://trinket.io/python/f3532e2f34)
+- [Sling Shot](https://trinket.io/python/332349ead6)
+- [Paint Reflect](https://trinket.io/python/9252c5936a)
