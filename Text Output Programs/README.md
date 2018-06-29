@@ -48,3 +48,5 @@
 * Bonus challenge: can you change the program to roll 3 dice? How many slots would you have to add to the array?
 <br><br>
 
+More Examples: 
+- [Memory game](https://trinket.io/library/trinkets/be34970f47)
