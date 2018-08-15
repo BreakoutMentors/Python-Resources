@@ -3,7 +3,7 @@
 
 [Processing Graphics Library](processing%20intro.md)
 - Challenge 1: Create a new Python file in Trinket to try out the example commands
-- Challenge 2: Make your own drawing. A happy face, whole person, or house are good projects. Example: [Squidward Drawing](https://trinket.io/python/58b4d9d057)
+- Challenge 2: Make your own drawing. A happy face, robot, or house are good projects. Example: [Squidward Drawing](https://trinket.io/python/58b4d9d057)
 <br><br>
 
 [Mouse and Keyboard](mouse%20and%20keyboard.md)
@@ -16,7 +16,7 @@
 
 [Random Art](https://trinket.io/library/trinkets/3a0ad9e3a6)
 - Challenge 1: Can you make it draw lines with a thickness of 2?
-- Challenge 2: Can you each starburst have 12 lines?
+- Challenge 2: Can you make each starburst have 12 lines?
 - Challenge 3: Can you add to the program so it also draws circles at random locations with a random color?
 - Challenge 4: Can you make those circles have a random radius between 5 and 15?
 - Challenge 5: Can you add random rectangles too?
