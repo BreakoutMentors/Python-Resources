@@ -4,6 +4,7 @@
 [Processing Graphics Library](processing%20intro.md)
 - Challenge 1: Create a new Python file in Trinket to try out the example commands
 - Challenge 2: Make your own drawing. A happy face, robot, or house are good projects. Example: [Squidward Drawing](https://trinket.io/python/58b4d9d057)
+- Challenge 3: Create your own function that you can use to easily draw something more complex. Start with this [Mickey Mouse Ears](https://trinket.io/library/trinkets/0872428a92) project
 <br><br>
 
 [Mouse and Keyboard](mouse%20and%20keyboard.md)
