@@ -16,7 +16,7 @@
 <br><br>
 
 [Random Art](https://trinket.io/library/trinkets/3a0ad9e3a6)
-- Challenge 1: Can you make the screen 600x600?
+- Challenge 1: Can you make the screen 600 x 600?
 - Challenge 2: Can you make each starburst have 8 lines?
 - Challenge 3: Can you add circles at random locations with a random color?
 - Challenge 4: Can you make those circles have a random diameter between 10 and 30?
