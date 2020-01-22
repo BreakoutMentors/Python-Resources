@@ -16,10 +16,10 @@
 <br><br>
 
 [Random Art](https://trinket.io/library/trinkets/3a0ad9e3a6)
-- Challenge 1: Can you make it draw lines with a thickness of 2?
-- Challenge 2: Can you make each starburst have 12 lines?
-- Challenge 3: Can you add to the program so it also draws circles at random locations with a random color?
-- Challenge 4: Can you make those circles have a random radius between 5 and 15?
+- Challenge 1: Can you make the screen 600x600?
+- Challenge 2: Can you make each starburst have 8 lines?
+- Challenge 3: Can you add circles at random locations with a random color?
+- Challenge 4: Can you make those circles have a random diameter between 10 and 30?
 - Challenge 5: Can you add random rectangles too?
 - Bonus challenge: What would make it look cooler?
 <br><br>
