@@ -23,4 +23,17 @@ value = factorial(5)
 print(value)
 ```
 
+### Solve Next
+
+Here are three more math problems:
+- [Powers](https://codingbat.com/prob/p158888)
+- [Triangle numbers](https://codingbat.com/prob/p194781)
+- [Fibonacci numbers](https://codingbat.com/prob/p120015)
+
+The website is asking for Java code, so instead write your code in your regular Python environment (you don't need the CodingBat website to tell you if it is correct).
+
+### More Number Patterns
+
+Hailstone and other
+
 
