@@ -50,3 +50,4 @@
 
 More: 
 - [Memory game](https://trinket.io/library/trinkets/0c9109a119) ([finished](https://trinket.io/library/trinkets/be34970f47))
+- [Tic-Tac-Toe](https://trinket.io/library/trinkets/f0c209915d) ([finished](https://trinket.io/library/trinkets/23b62e488c))
