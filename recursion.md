@@ -48,3 +48,8 @@ Notice that also handles the base case slightly differently, which is possible s
 
 Can you write recursive functions to print the [hailstone sequence](https://github.com/BreakoutMentors/Python-Resources/blob/master/Text%20Output%20Programs/hailstone.md) and [juggler sequence](https://en.wikipedia.org/wiki/Juggler_sequence)?
 
+## Fractals
+
+Graphics + recursion = fractals
+
+
