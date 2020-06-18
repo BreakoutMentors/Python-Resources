@@ -46,5 +46,5 @@ print_by_letter("hello")
 
 Notice that also handles the base case slightly differently, which is possible since no value is returned. In order to stop, it just doesn't make another recursive call.
 
-Can you write recursive functions for the [hailstone sequence](https://github.com/BreakoutMentors/Python-Resources/blob/master/Text%20Output%20Programs/hailstone.md) and [juggler sequence](https://en.wikipedia.org/wiki/Juggler_sequence)?
+Can you write recursive functions to print the [hailstone sequence](https://github.com/BreakoutMentors/Python-Resources/blob/master/Text%20Output%20Programs/hailstone.md) and [juggler sequence](https://en.wikipedia.org/wiki/Juggler_sequence)?
 
