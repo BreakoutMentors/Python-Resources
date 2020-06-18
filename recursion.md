@@ -33,8 +33,18 @@ Here are three more math problems:
 The CodingBat website is asking for Java code, so instead write your code in your regular Python environment (you don't need the CodingBat website to tell you if it is correct).
 
 ### Printing Number Patterns
+Those examples were returning numbers. What if you just want to print? 
 
-Those examples were returning numbers. What is you just want to print? 
-Hailstone and other
+```python
+def print_by_letter(string):
+  print(string[0])
+  if len(string) > 1:
+    print_by_letter(string[1:]) #substring from 1 spot to end
+  
+print_by_letter("hello")
+```
 
+Notice that also handles the base case slightly differently, which is possible since no value is returned. In order to stop, it just doesn't make another recursive call.
+
+Can you write a recursive functions for the [hailstone sequence](https://github.com/BreakoutMentors/Python-Resources/blob/master/Text%20Output%20Programs/hailstone.md) and [juggler sequence](https://en.wikipedia.org/wiki/Juggler_sequence)?
 
