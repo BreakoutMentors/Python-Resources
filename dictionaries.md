@@ -29,6 +29,13 @@ Fun fact: other programming languages use different terms for the same data stru
 
 Data structures are more useful for projects that use a lot of data. So let's jump into an interesting project that analyzes all of Shakespeare's writings and generates hilarious new sentences in his own words!
 
+Like these:
+```
+The sealing-day betwixt my manners and your haunts.
+The seasons alter till morrow deep midnight.
+The finch, rather, being mortal grossness so that they him silently.
+```
+
 From the [problem prompt](https://inst.eecs.berkeley.edu/~cs61a/fa12/labs/lab06/lab06.php): 
 ```
 Here's the idea: We start with some word - we'll use "The" as an example. Then we look through all of the 
