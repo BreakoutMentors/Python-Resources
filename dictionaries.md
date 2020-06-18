@@ -1,6 +1,6 @@
 # Python Dictionaries
 
-A data structure is the general term for how code stores information beyond simple variables. A list is an example you have seen before.
+Data structure is the general term for how code stores information beyond simple variables. A list is an example you have seen before.
 
 Now let's look at a Python dictionary, which is great for storing unordered information in key-value pairs:
 
