@@ -32,8 +32,9 @@ Here are three more math problems:
 
 The CodingBat website is asking for Java code, so instead write your code in your regular Python environment (you don't need the CodingBat website to tell you if it is correct).
 
-### More Number Patterns
+### Printing Number Patterns
 
+Those examples were returning numbers. What is you just want to print? 
 Hailstone and other
 
 
