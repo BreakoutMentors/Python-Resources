@@ -23,7 +23,7 @@ value = factorial(5)
 print(value)
 ```
 
-### Solve Next
+### Try These
 
 Here are three more math problems:
 - [Powers](https://codingbat.com/prob/p158888)
@@ -32,7 +32,7 @@ Here are three more math problems:
 
 The CodingBat website is asking for Java code, so instead write your code in your regular Python environment (you don't need the CodingBat website to tell you if it is correct).
 
-### Printing Number Patterns
+### Printing Recursively
 Those examples were returning numbers. What if you just want to print? 
 
 ```python
