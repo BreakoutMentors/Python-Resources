@@ -18,8 +18,8 @@ print(stateLong)
 ```
 
 Challenge questions (try your best guess first, if it doesn't work then search online):
-- How do you add more information to the dictionary after it has been created?
-- How do you find out the length of the dictionary?
-- How can you find out if a key is in the dictionary?
+- How do you add more information to the dictionary after it has been created? Add a new state.
+- How do you find out the length of the dictionary? Print the length.
+- How can you find out if a key is in the dictionary? Add an if statement for a certain state.
 
 Fun fact: other programming languages use different terms for the same data structure. For example the Python list is called an array in Java and JavaScript. The general term for a Python dictionary is "associative arrays" because it associates info into key-value pairs. In Java and JavaScript they are called Maps because they map information from key to value.
