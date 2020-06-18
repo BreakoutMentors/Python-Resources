@@ -17,7 +17,7 @@ stateLong = stateDictionary[stateShort]
 print(stateLong)
 ```
 
-Challenge questions:
+Challenge questions (try your best guess first, if it doesn't work then search online):
 - How do you add more information to the dictionary after it has been created?
 - How do you find out the length of the dictionary?
 - How can you find out if a key is in the dictionary?
