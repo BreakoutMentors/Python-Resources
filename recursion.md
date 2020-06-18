@@ -52,4 +52,9 @@ Can you write recursive functions to print the [hailstone sequence](https://gith
 
 Graphics + recursion = fractals
 
+[Check out this example that is only recursive in the x direction](https://trinket.io/library/trinkets/eba0451250)
+
+How does it know when to stop? 
+
+Can you make a different fractal for the x direction?
 
