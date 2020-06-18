@@ -32,13 +32,19 @@ Data structures are more useful for projects that use a lot of data. So let's ju
 From the [problem prompt](https://inst.eecs.berkeley.edu/~cs61a/fa12/labs/lab06/lab06.php): 
 ```
 Here's the idea: We start with some word - we'll use "The" as an example. Then we look through all of the 
-texts of Shakespeare and for every instance of "The" we record the word that follows "The" and add it to a list, known as the successors of "The". Now suppose we've done this for every word Shakespeare has used, ever.
+texts of Shakespeare and for every instance of "The" we record the word that follows "The" and add it to a
+list, known as the successors of "The". Now suppose we've done this for every word Shakespeare has used, ever.
 
-Let's go back to "The". Now, we randomly choose a word from this list, say "cat". Then we look up the successors of "cat" and randomly choose a word from that list, and we continue this process. This eventually will terminate in a period (".") and we will have generated a Shakespearean sentence!
+Let's go back to "The". Now, we randomly choose a word from this list, say "cat". Then we look up the 
+successors of "cat" and randomly choose a word from that list, and we continue this process. This eventually 
+will terminate in a period (".") and we will have generated a Shakespearean sentence!
 
-The object that we'll be looking things up in is called a 'sucessor table', although really it's just a dictionary. The keys in this dictionary are words, and the values are lists of successors to those words.
+The object that we'll be looking things up in is called a 'sucessor table', although really it's just a 
+dictionary. The keys in this dictionary are words, and the values are lists of successors to those words.
 
-Here's an incomplete definition of the build_successors_table function. The input is a list of words (corresponding to a Shakespearean text), and the output is a successors table. (By default, the first word is a successor to '.'). See the example below:
+Here's an incomplete definition of the build_successors_table function. The input is a list of words 
+(corresponding to a Shakespearean text), and the output is a successors table. (By default, the first word 
+is a successor to '.'). See the example below:
 
 >>> def build_successors_table(tokens):
         table = {}
