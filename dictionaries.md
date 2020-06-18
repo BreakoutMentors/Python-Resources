@@ -4,14 +4,14 @@ A data structure is the general term for how code stores information beyond simp
 
 Now let's look at a Python dictionary, which is great for storing unordered information in key-value pairs:
 
-```
+```python
 stateDictionary = {'CA': 'California', 'NV': 'Nevada', 'OR': 'Oregon'}
 print(stateDictionary['NV'])
 ```
 
 Let's say your program has a variable for the state abbreviation and you want to determine the state name. A dictionary is an excellent way to store that information for quick access:
 
-```
+```python
 stateShort = 'CA'
 stateLong = stateDictionary[stateShort]
 print(stateLong)
