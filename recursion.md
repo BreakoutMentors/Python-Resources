@@ -65,3 +65,6 @@ Let's make the jump to two dimensional fractals. Here is a good one:
 Can you draw the square in the middle and make 8 recursive calls? Can you use size for the base case instead of manually counting the depth?
 
 Hint: it can be difficult to jump to a perfect resursive call each time. I sometimes like to manually calculate the locations for the next level, which helps me see the math equation for the recursive call.
+
+
+![Koch snowflake](https://upload.wikimedia.org/wikipedia/commons/f/fd/Von_Koch_curve.gif)
