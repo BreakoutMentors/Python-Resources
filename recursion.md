@@ -54,6 +54,8 @@ Graphics + recursion = fractals
 
 [Check out this example that is only recursive in the x direction](https://trinket.io/library/trinkets/eba0451250)
 
+![1D Fractal](https://user-images.githubusercontent.com/1643783/85183847-1fd72300-b242-11ea-8333-edf117a92eaf.png)
+
 How does it know when to stop? 
 
 Can you make a different fractal for the x direction?
