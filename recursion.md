@@ -56,9 +56,11 @@ Graphics + recursion = fractals
 
 ![1D Fractal](https://user-images.githubusercontent.com/1643783/85183847-1fd72300-b242-11ea-8333-edf117a92eaf.png)
 
-How does it know when to stop? 
+How does it know when to stop? Can you make a different fractal for the x direction?
 
-Can you make a different fractal for the x direction?
-
+Let's make the jump to two dimensional fractals. Here is a good one:
 
 ![Sierpinski carpet](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sierpinski_carpet_5.svg/500px-Sierpinski_carpet_5.svg.png)
+
+Can you draw the square in the middle and make 8 recursive calls? Can you use size for the base case instead of manually counting the depth?
+
