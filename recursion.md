@@ -61,4 +61,4 @@ How does it know when to stop?
 Can you make a different fractal for the x direction?
 
 
-![Sierpinski carpet](https://en.wikipedia.org/wiki/Sierpinski_carpet#/media/File:Sierpinski_carpet_5.svg)
+![Sierpinski carpet](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sierpinski_carpet_5.svg/500px-Sierpinski_carpet_5.svg.png)
