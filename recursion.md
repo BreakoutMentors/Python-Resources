@@ -59,9 +59,7 @@ Graphics + recursion = fractals
 How does it know when to stop? Can you make a different fractal for the x direction?
 
 Let's make the jump to two dimensional fractals. It can be hard to achieve a desired fractal, however there are many cool things you can make just by experimenting. Here is one that is colorful.
-<div style="text-align:center">
 <img src="https://user-images.githubusercontent.com/1643783/85184322-3da58780-b244-11ea-8533-812a018ff46c.png" width="400" height="400">
-	</div>
 
 Here is a good one to try:
 
@@ -72,4 +70,5 @@ Can you draw the square in the middle and make 8 recursive calls? Can you use si
 Hint: it can be difficult to jump to a perfect resursive call each time. I sometimes like to manually calculate the locations for the next level, which helps me see the math equation for the recursive call.
 
 Here is another classic one (you can do triangles or lines):
+
 ![Koch snowflake](https://upload.wikimedia.org/wikipedia/commons/f/fd/Von_Koch_curve.gif)
