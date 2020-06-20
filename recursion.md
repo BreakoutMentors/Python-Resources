@@ -60,11 +60,11 @@ How does it know when to stop? Can you make a different fractal for the x direct
 
 Let's make the jump to two dimensional fractals. It can be hard to achieve a desired fractal, however there are many cool things you can make just by experimenting. Here is one that is colorful.
 
-<img src="https://user-images.githubusercontent.com/1643783/85184322-3da58780-b244-11ea-8533-812a018ff46c.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/1643783/85184322-3da58780-b244-11ea-8533-812a018ff46c.png" width="400" height="400">
 
 Here is a good one to try:
 
-![Sierpinski carpet](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sierpinski_carpet_5.svg/500px-Sierpinski_carpet_5.svg.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sierpinski_carpet_5.svg/500px-Sierpinski_carpet_5.svg.png" width="400" height="400">
 
 Can you draw the square in the middle and make 8 recursive calls? Can you use size for the base case instead of manually counting the depth?
 
