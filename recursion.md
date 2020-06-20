@@ -61,6 +61,7 @@ How does it know when to stop? Can you make a different fractal for the x direct
 Let's make the jump to two dimensional fractals. It can be hard to achieve a desired fractal, however there are many cool things you can make just by experimenting. Here is one that is colorful.
 
 ![Squares rec](https://user-images.githubusercontent.com/1643783/85184322-3da58780-b244-11ea-8533-812a018ff46c.png)
+<img src="https://camo.githubusercontent.com/135b17e37ca8969c5afb2df9829643d970464b88/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f322f32642f5369657270696e736b695f6361727065745f352e7376672f35303070782d5369657270696e736b695f6361727065745f352e7376672e706e67" style="width:500px" />
 
 Here is a good one to try:
 
