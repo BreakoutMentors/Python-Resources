@@ -105,5 +105,5 @@ ELSE:
 
 [Here is starter code for you to do your own implementation](https://trinket.io/library/trinkets/6e1fc5f079) (and peak at the [finished version](https://trinket.io/library/trinkets/fc5fd4efe0) if needed). It is a perfect use case for the provided Stack data structure, pushing and popping elements.
 
-This really shows the power of recursion: imagine solving this with loops somehow. Also mind blowing - where is the rule "we can never place a larger disk on a smaller one" programmed?
+This shows the magic of recursion: imagine solving this with loops somehow. Also mind blowing - where is the rule "we can never place a larger disk on a smaller one" programmed?
 
