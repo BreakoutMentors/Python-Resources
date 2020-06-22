@@ -76,7 +76,7 @@ Here is another classic one (you can do triangles or lines):
 
 ## Towers of Hanoi
 
-This is a recursion example that seems pretty magical. It would be really hard to solve with loops, and it isn't intuitive the order of steps necessary, but a few lines of recursive code solves it with ease. 
+This is a recursive solution that seems pretty magical. It would be very hard to solve with loops, and it isn't intuitive the order of steps necessary, but a few lines of recursive code solves it with ease. 
 
 ![hanoi image](https://user-images.githubusercontent.com/1643783/85320541-12a37980-b478-11ea-9b11-aa8a36b40073.png)
 
