@@ -78,7 +78,7 @@ Here is another classic one (you can do triangles or lines):
 
 This is a recursion example that seems pretty magical. It would be really hard to solve with loops, and it isn't intuitive the order of steps necessary, but a few lines of recursive code solves it with ease. 
 
-[hanoi image](https://user-images.githubusercontent.com/1643783/85320541-12a37980-b478-11ea-9b11-aa8a36b40073.png)
+![hanoi image](https://user-images.githubusercontent.com/1643783/85320541-12a37980-b478-11ea-9b11-aa8a36b40073.png)
 
 ```
     Our goal is to move the entire tower to the middle peg.
