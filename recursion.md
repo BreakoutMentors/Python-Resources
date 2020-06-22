@@ -67,9 +67,7 @@ Here is a good one to try:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sierpinski_carpet_5.svg/500px-Sierpinski_carpet_5.svg.png" width="400" height="400">
 
-Can you draw the square in the middle and make 8 recursive calls? Can you use size for the base case instead of manually counting the depth?
-
-Hint: it can be difficult to jump to a perfect resursive call each time. I sometimes like to manually calculate the locations for the next level, which helps me see the math equation for the recursive call.
+Can you draw the square in the middle and make 8 recursive calls? Can you use size for the base case instead of manually counting the depth? Hint: it can be difficult to jump to a perfect resursive call each time. I sometimes like to manually calculate the locations for the next level, which helps me see the math equation for the recursive call.
 
 Here is another classic one (you can do triangles or lines):
 
