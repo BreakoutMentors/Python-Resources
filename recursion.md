@@ -100,3 +100,5 @@ ELSE:
     move disk from source to dest
     MoveTower(disk - 1, spare, dest, source)
 ```
+
+[Go here to step through that recursive algorithm for 5 discs](https://www.cs.cmu.edu/~cburch/survey/recurse/hanoiex.html). Pretty impressive! That same algorithm can solve it for any size, as long as there is enough time...
