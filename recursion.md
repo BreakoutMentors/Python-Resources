@@ -101,4 +101,8 @@ ELSE:
     MoveTower(disk - 1, spare, dest, source)
 ```
 
-[Go here to step through that recursive algorithm for 5 discs](https://www.cs.cmu.edu/~cburch/survey/recurse/hanoiex.html). Pretty impressive! That same algorithm can solve it for any size, as long as there is enough time...
+[Go here to step through that recursive algorithm for 5 discs](https://www.cs.cmu.edu/~cburch/survey/recurse/hanoiex.html). Pretty impressive! That same algorithm can solve it for any size, as long as there is enough time. Also mind blowing - where is the rule "we can never place a larger disk on a smaller one" programmed?
+
+Here is some starter code for you to do your own implementation (and peak at the [finished version](https://trinket.io/library/trinkets/fc5fd4efe0) if needed).
+
+
