@@ -86,4 +86,4 @@ This is a recursion example that seems pretty magical. It would be really hard t
     We can never place a larger disk on a smaller one. 
 ```
 
-[Try solving it manually here](https://www.mathsisfun.com/games/towerofhanoi.html) (note that the goal on that website is to move everything to the third peg)
+[Try solving it manually here with 4 or 5 discs](https://www.mathsisfun.com/games/towerofhanoi.html) (note that the goal on that website is to move everything to the third peg)
