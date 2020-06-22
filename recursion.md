@@ -86,4 +86,17 @@ This is a recursion example that seems pretty magical. It would be really hard t
     We can never place a larger disk on a smaller one. 
 ```
 
-[Try solving it manually here with 4 or 5 discs](https://www.mathsisfun.com/games/towerofhanoi.html) (note that the goal on that website is to move everything to the third peg)
+[Try solving it manually here with 4 or 5 discs](https://www.mathsisfun.com/games/towerofhanoi.html) (note that the goal on that website is to move everything to the third peg).
+
+It is trivial with 2 discs: move the 0 (smallest) disc to the spare column, move the 1 (largest) disc to the destination column, move the 0 disc to the destination column. The same pattern holds with more discs: move the whole stack above the largest to the spare column, move the largest to the destination column, move the whole stack in the spare column to the destination column. [See the visual](https://www.cs.cmu.edu/~cburch/survey/recurse/hanoiimpl.html)
+
+Here is some recursive psuedo-code:
+```
+FUNCTION MoveTower(disk, source, dest, spare):
+IF disk == 0, THEN:
+    move disk from source to dest
+ELSE:
+    MoveTower(disk - 1, source, spare, dest)
+    move disk from source to dest
+    MoveTower(disk - 1, spare, dest, source)
+```
