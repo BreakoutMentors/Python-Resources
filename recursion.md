@@ -73,7 +73,7 @@ Tree fractals with lines can be made when using a helper function to calculate x
 
 <img src="https://user-images.githubusercontent.com/1643783/85425676-548ef700-b52e-11ea-9e2e-fd36585adb03.jpg" width="400" height="400">
 
-Here is another classic one (you can do triangles or lines):
+Here is another classic one (you can use triangles or lines):
 
 ![Koch snowflake](https://upload.wikimedia.org/wikipedia/commons/f/fd/Von_Koch_curve.gif)
 
