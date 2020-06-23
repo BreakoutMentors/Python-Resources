@@ -69,6 +69,10 @@ Here is a good one to try ([finished code](https://trinket.io/library/trinkets/f
 
 Can you draw the square in the middle and make 8 recursive calls? Can you use size for the base case instead of manually counting the depth? Hint: it can be difficult to jump to a perfect resursive call each time. I sometimes like to manually calculate the locations for the next level, which helps me see the math equation for the recursive call.
 
+Tree fractals with lines can be made when using a helper function to calculate x, y based on angle, length. [Here is a starter file](https://trinket.io/library/trinkets/9a3d7050a8).
+
+<img src="https://user-images.githubusercontent.com/1643783/85425676-548ef700-b52e-11ea-9e2e-fd36585adb03.jpg" width="400" height="400">
+
 Here is another classic one (you can do triangles or lines):
 
 ![Koch snowflake](https://upload.wikimedia.org/wikipedia/commons/f/fd/Von_Koch_curve.gif)
