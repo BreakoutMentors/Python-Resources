@@ -61,6 +61,7 @@ Graphics + recursion = fractals
 How does it know when to stop? Can you make a different fractal for the x direction?
 
 Let's make the jump to two dimensional fractals. It can be hard to achieve a desired fractal, however there are many cool things you can make just by experimenting. Here is one that is colorful.
+
 <img src="https://user-images.githubusercontent.com/1643783/85184322-3da58780-b244-11ea-8533-812a018ff46c.png" width="400" height="400">
 
 Here is a good one to try ([finished code](https://trinket.io/library/trinkets/f2f68a18ee)):
