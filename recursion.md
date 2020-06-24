@@ -108,7 +108,7 @@ ELSE:
 
 [Go here to step through that recursive algorithm for 5 discs](https://www.cs.cmu.edu/~cburch/survey/recurse/hanoiex.html). Pretty impressive! That same algorithm can solve it for any size, as long as there is enough time.
 
-[Here is starter code for you to do your own implementation](https://trinket.io/library/trinkets/6e1fc5f079) (and peak at the [finished version](https://trinket.io/library/trinkets/fc5fd4efe0) if needed). It is a perfect use case for the provided Stack data structure, pushing and popping elements.
+[Here is starter code for you to do your own implementation](https://trinket.io/library/trinkets/6e1fc5f079) (and peek at the [finished version](https://trinket.io/library/trinkets/fc5fd4efe0) if needed). It is a perfect use case for the provided Stack data structure, pushing and popping elements.
 
 This shows the magic of recursion: imagine solving this with loops somehow. Also mind blowing - where is the rule "we can never place a larger disk on a smaller one" programmed?
 
