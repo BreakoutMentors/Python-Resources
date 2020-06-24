@@ -44,9 +44,9 @@ def print_by_letter(string):
 print_by_letter("hello")
 ```
 
-Notice that also handles the base case slightly differently, which is possible since no value is returned. In order to stop, it just doesn't make another recursive call.
+Notice this example also handles the base case differently, which is possible since no value is returned. In order to stop, it just doesn't make another recursive call.
 
-This is a good example of something that can be solved by standard loops or with recursion. Often simple practice problems can be solved either way, but ask you to do it recursively for practice.
+This is something that can be solved either by standard loops or with recursion. Often simple practice problems can be solved either way, but will ask you to do it recursively for practice.
 
 Can you write recursive functions to print the [hailstone sequence](https://github.com/BreakoutMentors/Python-Resources/blob/master/Text%20Output%20Programs/hailstone.md) and [juggler sequence](https://en.wikipedia.org/wiki/Juggler_sequence)?
 
