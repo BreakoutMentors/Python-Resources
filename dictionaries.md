@@ -25,6 +25,7 @@ Challenge questions (try your best guess first, if it doesn't work then search o
 Fun fact: other programming languages use different terms for the same data structure. For example the Python list is called an array in Java and JavaScript. The general term for a Python dictionary is "associative arrays" because it associates info into key-value pairs. In Java and JavaScript they are called Maps because they map information from key to value.
 
 
+
 ## Write a Sentence Like Shakespeare
 
 Data structures are more useful for projects that use a lot of data. So let's jump into an interesting project that analyzes all of Shakespeare's writings and generates hilarious new sentences in his own words!
@@ -73,11 +74,21 @@ is a successor to '.'). See the example below:
 [Here is the starter code](https://trinket.io/library/trinkets/111bae66a7) (and a [finished example](https://trinket.io/library/trinkets/42f790558a) if you need it)
 
 
+
 ## Star and Constellation Data
 
 This project provides text files for star locations and constellation information ([source](http://nifty.stanford.edu/2009/reid-starmap/starmap.html)). Your job is to process it into convenient dictionaries that are used by the graphics library to visualize:
 
 ![star image](https://user-images.githubusercontent.com/1643783/86145826-4865e500-baac-11ea-96ab-40f7737a6644.png)
 
-
+Here is how the data is provided:
+```
+The file stars.txt contains one line for each star that is represented in the catalog. The meaning of each field (column) is described below.
+- The first three fields are the x, y and z coordinates for the star. We will ignore the z coordinate, and use only the x and y coordinates. Each axis in the coordinate system goes from -1 to +1, and the centre point is 0,0. (See the figure below.)
+- The fourth field is the Henry Draper number, which is simply a unique identifier for the star.
+- The fifth field is the magnitude (or brightness) of the star.
+- The sixth field is Harvard Revised number, another identifier.
+- The seventh field exists only for a small number of stars and is a semicolon-separated list of names for a star. A star may have several names.
+Two unique identifiers appear in the data because the star data has been collected from different sources, and the catalogs have several different ways to uniquely identify stars. The fields that you will need for this assignment include the x and y coordinates, the magnitude, the Henry Draper number, and the name (or names) of each star.
+```
 
