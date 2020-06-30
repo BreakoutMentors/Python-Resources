@@ -71,3 +71,13 @@ is a successor to '.'). See the example below:
 ```
 
 [Here is the starter code](https://trinket.io/library/trinkets/111bae66a7) (and a [finished example](https://trinket.io/library/trinkets/42f790558a) if you need it)
+
+
+## Star and Constellation Data
+
+This project provides text files for star locations and constellation information ([source](http://nifty.stanford.edu/2009/reid-starmap/starmap.html)). Your job is to process it into convenient dictionaries that are used by the graphics library to visualize:
+
+<img>
+
+
+
