@@ -84,6 +84,7 @@ This project provides text files for star locations and constellation informatio
 Here is how the data is provided:
 ```
 The file stars.txt contains one line for each star that is represented in the catalog. The meaning of each field (column):
+
 - The first three fields are the x, y and z coordinates for the star. We will ignore the z coordinate, and use only the x
 and y coordinates. Each axis in the coordinate system goes from -1 to +1, and the centre point is 0,0.
 - The fourth field is the Henry Draper number, which is simply a unique identifier for the star.
@@ -91,6 +92,7 @@ and y coordinates. Each axis in the coordinate system goes from -1 to +1, and th
 - The sixth field is Harvard Revised number, another identifier.
 - The seventh field exists only for a small number of stars and is a semicolon-separated list of names for a star. A star
 may have several names.
+
 Two unique identifiers appear in the data because the star data has been collected from different sources, and the 
 catalogs have several different ways to uniquely identify stars. The fields that you will need for this assignment 
 include the x and y coordinates, the magnitude, the Henry Draper number, and the name (or names) of each star.
