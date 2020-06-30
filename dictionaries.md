@@ -105,7 +105,9 @@ The first is keyed on the Henry Draper number and the values are tuples containi
 
 The second dictionary is also keyed on the Henry Draper numbers and contains the magnitudes (float) of the stars. 
 
-The third dictionary is keyed on the names of the stars and the values are the Henry Draper numbers. If a star has more than one name, each name will appear as a key in the third dictionary. If a star does not have a name it will not be represented in the third dictionary.
+The third dictionary is keyed on the names of the stars and the values are the Henry Draper numbers. If a star has more 
+than one name, each name will appear as a key in the third dictionary. If a star does not have a name it will not be 
+represented in the third dictionary.
 ```
 
 Once you have the stars plotted, finish the load_constellations function. The file reading it done already, your goal is to use the star pairs to determine the coordinates to draw lines between. This will require using two of the dictionaries you created in the read_coords function.
