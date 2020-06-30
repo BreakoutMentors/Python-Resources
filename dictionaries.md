@@ -112,4 +112,4 @@ represented in the third dictionary.
 
 Once you have the stars plotted, finish the load_constellations function. The file reading it done already, your goal is to use the star pairs to determine the coordinates to draw lines between. This will require using two of the dictionaries you created in the read_coords function.
 
-[Finished example](https://trinket.io/library/trinkets/5feab16dff)
+And if you get stuck, here is a [finished example](https://trinket.io/library/trinkets/5feab16dff)
