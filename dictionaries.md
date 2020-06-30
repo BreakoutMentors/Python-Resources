@@ -77,7 +77,7 @@ is a successor to '.'). See the example below:
 
 This project provides text files for star locations and constellation information ([source](http://nifty.stanford.edu/2009/reid-starmap/starmap.html)). Your job is to process it into convenient dictionaries that are used by the graphics library to visualize:
 
-<img>
+![star image](https://user-images.githubusercontent.com/1643783/86145826-4865e500-baac-11ea-96ab-40f7737a6644.png)
 
 
 
