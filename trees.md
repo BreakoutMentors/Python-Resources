@@ -17,7 +17,7 @@ Binary just means that there are a maximum of two children for a given node. A v
 
 With such a small example it may seem more complex than just storing the numbers in an array. But when there are a ton of numbers, it is much faster to find one when stored in a binary tree. Let's look at a quick example.
 
-Say you were in charge of giving out Social Security Numbers to newborns. Your strategy is to pick 9 random digits, then look up to see if it has been used already. There are hundreds of millions of people with SSN - do you want to look through a list / array one by one to see if a given number is already used? If you stored them as a binary tree though, you can take advantage of the smaller / larger comparision to cut your search in half each time. The tree gets exponentially smaller as you go.
+Say you were in charge of giving out Social Security Numbers to newborns. Your strategy is to pick 9 random digits, then look up to see if it has been used already. There are hundreds of millions of people with a SSN - do you want to look through a list / array one by one to see if a given number is already used? If you stored them as a binary tree though, you can take advantage of the smaller / larger comparision to cut your search in half each time. The tree gets exponentially smaller as you go.
 
 This is show in the [number guessing game tree code](https://trinket.io/library/trinkets/4b175d57d7). 
 
