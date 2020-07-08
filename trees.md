@@ -31,4 +31,12 @@ The gist of a "strong solution" is in [this slide deck](https://drive.google.com
 
 This game is pretty simple, but the same idea can be used for much more complex games - with many possible moves and ways to win or lose. Obviously in this game there are only two possible moves, so two children nodes. And the only way the game ends is when zero pieces are left. In the code this is called the "primitive", and says if it is your turn and there are zero pieces left, return LOSE (this would mean the other player removed the final pieces on their turn).
 
+Now let's apply the same idea to a slightly more complex game - [Game of Sticks](http://nifty.stanford.edu/2014/laaksonen-vihavainen-game-of-sticks/handout.html).
 
+```
+In the game of sticks there is a heap of sticks on a board. 
+On their turn, each player picks up 1 to 3 sticks. 
+The one who has to pick the final stick will be the loser.
+```
+
+Start a new project and copy over the code from the last game. What changes do you need to make for these new rules? Once you print out all the values, what is the optimal strategy?
