@@ -59,7 +59,7 @@ If the tree doesn't already contain the number, insert it
 
 This makes use of the contains and insert functions that were already created for you. As a bonus challenge, see if you can add a count function that counts the total number of nodes in the tree (look at how the recursion was done for the others).
 
-[Here is a finished example if you need it](https://trinket.io/library/trinkets/ee899f8e45)
+[Here is a finished example if you need it](https://trinket.io/library/trinkets/69d9c700cb)
 
 ## Subtract Game
 
