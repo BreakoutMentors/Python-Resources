@@ -21,6 +21,16 @@ Say you were in charge of giving out Social Security Numbers to newborns. Your s
 
 This is show in the [number guessing game tree code](https://trinket.io/library/trinkets/4b175d57d7). 
 
+The tree is implemented with a very simple Node Class:
+```python
+class Node:
+  
+  def __init__(self, obj):
+    self.item = obj
+    self.left = None
+    self.right = None
+```
+
 
 
 ## Subtract Game
