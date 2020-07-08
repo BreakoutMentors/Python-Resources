@@ -4,9 +4,22 @@ The tree data structure is very useful for hierarchies of information. Think a f
 
 ![tree image](https://cdn-media-1.freecodecamp.org/images/1*V_EUgNXVc8Wy9H1-JoqT3g.jpeg)
 
-The information stored is a node. This might be a person's name. They are connected to other nodes by edges. Down the tree is a called child relationship, up the tree is a parent relationship. The top most node is called the root. [Here is a great article for further reading](https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/)
+The information stored is a node. This might be a person's name. They are connected to other nodes by edges. Down the tree is a called child relationship, up the tree is a parent relationship. The top most node is called the root. [Here is a great article for further reading (and where a couple of these images are from)](https://www.freecodecamp.org/news/all-you-need-to-know-about-tree-data-structures-bceacb85490c/)
 
 A tree data structure is usually implemented on your own, as opposed to a feature of the coding language like a list/array or dictionary/map. It sets up really well for using recursion - for example searching the node and a recursive call to search all its children.
+
+
+## Binary Tree with Numbers
+
+Binary just means that there are a maximum of two children for a given node. A very common binary tree use case is to store numbers - the left child for smaller and the right child for larger.
+
+![binary tree](https://cdn-media-1.freecodecamp.org/images/1*ofbwuz4inpf2OlB-l9gtHw.jpeg)
+
+With such a small example it may seem more complex than just storing the numbers in an array. But when there are a ton of numbers, it is much faster to find one if stored in a binary tree. Let's look at a quick example.
+
+Say you were in charge of giving out Social Security Numbers to newborns. Your strategy is to pick 9 random digits, then look up to see if that has been used already. There are hundreds of millions of people with SSN - do you want to look through a list / array one by one to see if a given number is already used? If you stored them as a binary tree though, you can take advantage of the smaller / larger comparision to cut your search in half each time. The tree gets exponentially smaller as you go.
+
+This is show in the [number guessing game tree code](https://trinket.io/library/trinkets/4b175d57d7). 
 
 
 
