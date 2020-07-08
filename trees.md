@@ -23,7 +23,7 @@ The gameplay can be stored as a tree:
 
 ![tree image](https://user-images.githubusercontent.com/1643783/86969814-38d94280-c123-11ea-8f37-008429b77166.png)
 
-The code for it is a little hard to understand, but [here it is](https://trinket.io/library/trinkets/f99f83edff) from a [UC Berkeley Computer Science course](https://drive.google.com/drive/folders/1JDzC1WS13oQlsgLhUznfk-U-65GiZ8rK). The example code uses list comprehension, a cool Python feature. [See some simple examples here](https://trinket.io/library/trinkets/74cd81d38a)
+The code for it is a little hard to understand, but [here it is](https://trinket.io/library/trinkets/f99f83edff) from a [UC Berkeley Computer Science course](https://drive.google.com/drive/folders/1JDzC1WS13oQlsgLhUznfk-U-65GiZ8rK). (The code uses list comprehension, a cool Python feature, [see some simple examples here](https://trinket.io/library/trinkets/74cd81d38a))
 
 The gist of a "strong solution" is in [this slide deck](https://drive.google.com/file/d/1nQY67Q1S3jXWGzR8sNrKNdDoe45tMiml/view) from the course. On your turn the game is at a certain state. Each possible move you can make results in a new gamestate that are all the children nodes. You win if there exists a node where the other player loses. You lose if all the children result in the other player winning. 
 
