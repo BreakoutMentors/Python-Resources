@@ -19,9 +19,7 @@ With such a small example it may seem more complex than just storing the numbers
 
 Say you were in charge of giving out Social Security Numbers to newborns. Your strategy is to pick 9 random digits, then look up to see if it has been used already. There are hundreds of millions of people with a SSN - do you want to look through a list / array one by one to see if a given number is already used? If you stored them as a binary tree though, you can take advantage of the smaller / larger comparision to cut your search in half each time. The tree gets exponentially smaller as you go.
 
-This is show in the [number guessing game tree code](https://trinket.io/library/trinkets/4b175d57d7). 
-
-The tree is implemented with a very simple Node Class:
+This is show in the [number guessing game tree code](https://trinket.io/library/trinkets/4b175d57d7). The tree is implemented with a very simple Node Class:
 ```python
 class Node:
   
