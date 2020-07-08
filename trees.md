@@ -67,11 +67,10 @@ Here is a [fun problem](https://inst.eecs.berkeley.edu/~cs61a/sp20/disc/guer01_s
 
 ```
 Mario needs to jump over a sequence of Piranha plants, represented as a string of dashes (no plant) and P’s (plant!).
-He only moves forward, and he can either step (move forward one place) or jump (move forward two places) from each position.
-How many different ways can Mario traverse a level without stepping or jumping
-into a Piranha plant? Assume that every level begins with a dash (where Mario
-starts) and ends with a dash (where Mario must end up), and there are never two 
-plants in a row (which would be impossible to pass)
+He only moves forward, and he can either step (move forward one place) or jump (move forward two places) from each 
+position. How many different ways can Mario traverse a level without stepping or jumping into a Piranha plant? Assume
+that every level begins with a dash (where Mario starts) and ends with a dash (where Mario must end up), and there 
+are never two plants in a row (which would be impossible to pass)
 
 mario_tree('-P-P-')   # jump, jump
 mario_tree('---P-P-') # step, step, jump, jump OR jump, jump, jump
