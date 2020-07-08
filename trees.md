@@ -40,3 +40,5 @@ The one who has to pick the final stick will be the loser.
 ```
 
 Start a new project and copy over the code from the last game. What changes do you need to make for these new rules? Once you print out all the values, what is the optimal strategy?
+
+[Here is a finished example if you need it](https://trinket.io/library/trinkets/f9a1a79b38)
