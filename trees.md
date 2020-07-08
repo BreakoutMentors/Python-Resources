@@ -26,12 +26,30 @@ The tree is implemented with a very simple Node Class:
 class Node:
   
   def __init__(self, obj):
-    self.item = obj
+    self.value = obj
     self.left = None
     self.right = None
 ```
 
+All it does is store its value and children called left and right. The children start as None and are added later.
 
+The BinaryTree class is where the magic happens. All it stores is the root Node. When a new value is inserted into the tree, it calls a recursive helper function that will help find the right spot to create the new node.
+
+```python
+  def insert(self, value):
+    self.root = self.insertHelper(self.root, value)
+    
+  def insertHelper(self, node, value):
+    if node is None:
+      return Node(value)
+    elif node.value > value:
+      node.left = self.insertHelper(node.left, value)
+    elif node.value < value:
+      node.right = self.insertHelper(node.right, value)
+    
+    return node
+```
+The contains and draw functions are similar - each calls a helper function with the root node parameter, which makes recursive calls for each child.
 
 ## Subtract Game
 
