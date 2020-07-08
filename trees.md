@@ -51,6 +51,12 @@ The BinaryTree class is where the magic happens. All it stores is the root Node.
 ```
 The contains and draw functions are similar - each calls a helper function with the root node parameter, which makes recursive calls for each child.
 
+Read through the code, make sure you understand how it works. We are going to use the Node and BinaryTree classes as a starting point for a new project. Copy them over to a new Trinket file, along with the graphics setup, draw, and run. 
+
+Create a new tree called random_tree. I want you to create a list with numbers 1 to 20 (use the range function) then use random.shuffle to make them in a random order. Now loop through them, adding each to random_tree. Then draw it.
+
+[Here is a finished example if you need it](https://trinket.io/library/trinkets/ee899f8e45)
+
 ## Subtract Game
 
 This is a simple two player game:
