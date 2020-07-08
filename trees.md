@@ -20,6 +20,7 @@ The winner is the player who removes the last one
 ```
 
 The gameplay can be stored as a tree: 
+
 ![tree image](https://user-images.githubusercontent.com/1643783/86969814-38d94280-c123-11ea-8f37-008429b77166.png)
 
 The code for it is a little hard to understand, but [here it is](https://trinket.io/library/trinkets/f99f83edff) from a [UC Berkeley Computer Science course](https://drive.google.com/drive/folders/1JDzC1WS13oQlsgLhUznfk-U-65GiZ8rK). The example code uses list comprehension, a cool Python feature. [See some simple examples here](https://trinket.io/library/trinkets/74cd81d38a)
