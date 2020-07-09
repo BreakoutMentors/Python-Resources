@@ -77,7 +77,9 @@ mario_tree('---P-P-') # step, step, jump, jump OR jump, jump, jump
 mario_tree('----')  # step, jump OR jump, step OR step, step, step
 ```
 
-Generate a tree with all the valid moves and display it.
+Generate a tree with all the valid moves and display it. 
+
+Bonus challenge: write a function for the tree to return the total number of paths possible. Hint: count the terminating leaf nodes using recursion.
 
 [Here is a finished example if you need it](https://trinket.io/library/trinkets/2b0603d822)
 
