@@ -1,5 +1,7 @@
 # Mouse Inputs
 
+These commands are part of the Processing graphics, so you need to import the library (see [this project](https://trinket.io/python/2a112790dc) with the basic structure).
+
 ## Mouse Location
 ```python
 print(mouse.x)
