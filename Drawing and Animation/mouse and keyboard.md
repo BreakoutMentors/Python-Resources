@@ -25,7 +25,6 @@ Has to go before the `run()` call.
 def keyPressed():
   print(keyboard.key)
 ```
-Note: Keyboard input on Trinket seems to be broken. You can switch to using the [Processing IDE](https://processing.org/reference/environment/)
 
 ## Other things to know
 
