@@ -47,3 +47,4 @@
 
 More Examples: 
 - [Star Drawing](https://trinket.io/python/518448abf3)
+- [Image Filters](https://trinket.io/python/7a8f129cc4)
