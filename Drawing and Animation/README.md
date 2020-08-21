@@ -45,3 +45,5 @@
 - Bonus challenge: What would make it look cooler?
 <br><br>
 
+More Examples: 
+- [Star Drawing](https://trinket.io/python/518448abf3)
