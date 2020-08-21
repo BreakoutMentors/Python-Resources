@@ -36,5 +36,6 @@ More Examples:
 - [Breakout](https://trinket.io/python/f3532e2f34)
 - [Sling Shot](https://trinket.io/python/332349ead6)
 - [Paint Reflect](https://trinket.io/python/9252c5936a)
+- [Space Race](https://trinket.io/python/2fe1bbf6b9)
 
 Note: Keyboard input on Trinket seems to be broken. You can switch to using the [Processing IDE](https://processing.org/reference/environment/)
