@@ -26,4 +26,4 @@ Stars are not too different than polygons.
 
 What happens if you turn a fixed angle, but change the side length? What can you make?
 
-![squares](https://www.vivaxsolutions.com/images/turtle-1.webm)
+![squares](turtle squares.gif)
