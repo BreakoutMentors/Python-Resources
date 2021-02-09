@@ -2,17 +2,17 @@
 
 There is another way to use graphics in Trinket: with the turtle. It is similar to the Pen tool in Scratch, it can trace wherever you tell the turtle to go. [Check out this example with all the basic commands you need.](https://trinket.io/library/trinkets/e9439f4079) 
 
-# Challenge 1: Make a Triangle and Square
+## Challenge 1: Make a Triangle and Square
 
 Let's draw some shapes. See if you can create an equilateral triangle and a square using the forward and left or right commands. 
 
-# Challenge 2: Use Loops and Functions
+## Challenge 2: Use Loops and Functions
 
 Did you use a loop to create those shapes? If not, that is fine, but update your code now. 
 
 That will make this next step easier. Create a turtle_square function that takes one input for the side length. Now you can easily draw squares of different sizes all over the screen.
 
-# Challenge 3: Generalize to a Polygon
+## Challenge 3: Generalize to a Polygon
 
 What is the difference between the triangle code and the square code? How can we generalize to make a pentagon or any other polygon? Hint: what is the sum of all the turns?
 
