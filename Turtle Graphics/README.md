@@ -26,4 +26,4 @@ Stars are not too different than polygons.
 
 What happens if you turn a fixed angle, but change the side length? What can you make?
 
-![squares](turtle squares.gif)
+![squares](https://raw.githubusercontent.com/BreakoutMentors/Python-Resources/master/Turtle%20Graphics/turtle%20squares.gif)
