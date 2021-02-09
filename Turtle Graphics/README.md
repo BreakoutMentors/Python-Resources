@@ -20,7 +20,7 @@ See if you can make a turtle_polygon function that has two inputs: size and numb
 
 ## Bonus challenge: Stars
 
-Stars are not too different than polygons. 
+Stars are not too different than polygons. Experiment to find to the right angle to turn depending on the number of points on the star.
 
 ## Bonus challenge: Spirals
 
