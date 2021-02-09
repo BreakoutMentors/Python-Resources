@@ -54,7 +54,9 @@ current_time = datetime.datetime.now()
 print(current_time.hour)
 print(current_time.minute)
 ```
-Using this, can you draw a clockface with the current time displayed? Here is an example from [computinglesson.com](http://www.computinglesson.com/advanced-turtle-challenges.html) (hint: they also used the stamp command to draw an outline of the turtle):
+Using this, can you draw a clockface with the current time displayed? There is a setheading function that you may want to use to set the exact angle the turtle is facing.
+
+Here is an example from [computinglesson.com](http://www.computinglesson.com/advanced-turtle-challenges.html) (hint: they also used the stamp command to draw an outline of the turtle):
 
 ![turtle clock](http://www.computinglesson.com/uploads/1/3/7/4/13748232/6546151_orig.png)
 
