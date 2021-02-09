@@ -30,6 +30,14 @@ Also try to make this from [How to Think Like a Computer Scientist: Learning wit
 
 ![spirals](http://openbookproject.net/thinkcs/python/english3e/_images/tess_spirals.png)
 
+## Bonus challenge: Cool Lines
+
+Have you ever made this pattern using graph paper?
+
+![Cool lines](https://raw.githubusercontent.com/BreakoutMentors/Python-Resources/master/Turtle%20Graphics/cool%20lines.gif)
+
+Each line gets one step closer to the middle on one side and one step farther on the other side.
+
 ## Bonus challenge: Overlapping Squares
 
 Here is a fun challenge from [Vivax Solutions](https://www.vivaxsolutions.com/web/python-turtle.aspx):
