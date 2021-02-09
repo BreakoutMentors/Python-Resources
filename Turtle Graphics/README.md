@@ -33,3 +33,12 @@ Here is a fun challenge from [Vivax Solutions](https://www.vivaxsolutions.com/we
 ![squares](https://raw.githubusercontent.com/BreakoutMentors/Python-Resources/master/Turtle%20Graphics/turtle%20squares.gif)
 
 [Here is an example to get you started with filled in shapes.](https://trinket.io/library/trinkets/d53a2b5046) Be sure to use functions to keep your code short and readable. It will also allow you to easily switch to using a different shape if you want.
+
+## Bonus challenge: Lists and Conditionals
+
+You can of course still use lists and conditionals to make your turtle graphics more powerful. Here is a quick challenge to get you started.
+
+Create a series of shapes in a row based on a list that contains the number of sides for each shape. For example: shapes = [4, 8, 3, 5, 10]. If the shape has an odd number of sides, make it blue. If an even number of sides, red.
+
+
+
