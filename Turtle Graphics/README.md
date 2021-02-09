@@ -44,5 +44,13 @@ You can of course still use lists and conditionals to make your turtle graphics 
 
 Create a series of shapes in a row based on a list that contains the number of sides for each shape. For example: shapes = [4, 8, 3, 5, 10]. If the shape has an odd number of sides, make it blue. If an even number of sides, red.
 
+## Bonus challenge: Working Clock
 
+Did you know you can find out the current time from Python? 
 
+```python
+import datetime
+current_time = datetime.datetime.now()
+print(current_time.hour)
+print(current_time.minute)
+```
