@@ -26,6 +26,10 @@ Stars are not too different than polygons.
 
 What happens if you turn a fixed angle, but change the side length? What can you make?
 
+Also try to make this from [How to Think Like a Computer Scientist: Learning with Python 3](http://openbookproject.net/thinkcs/python/english3e/functions.html) (hint: create the first, then change the turn angle):
+
+![spirals](http://openbookproject.net/thinkcs/python/english3e/_images/tess_spirals.png)
+
 ## Bonus challenge: Overlapping Squares
 
 Here is a fun challenge from [Vivax Solutions](https://www.vivaxsolutions.com/web/python-turtle.aspx):
