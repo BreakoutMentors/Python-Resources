@@ -32,4 +32,4 @@ Here is a fun challenge from [Vivax Solutions](https://www.vivaxsolutions.com/we
 
 ![squares](https://raw.githubusercontent.com/BreakoutMentors/Python-Resources/master/Turtle%20Graphics/turtle%20squares.gif)
 
-[Here is an example to get you started with filled in shapes.](https://trinket.io/library/trinkets/d53a2b5046)
+[Here is an example to get you started with filled in shapes.](https://trinket.io/library/trinkets/d53a2b5046) Be sure to use functions to keep your code short and readable. It will also allow you to easily switch to using a different shape if you want.
