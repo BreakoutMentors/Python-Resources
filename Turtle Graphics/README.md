@@ -26,4 +26,10 @@ Stars are not too different than polygons.
 
 What happens if you turn a fixed angle, but change the side length? What can you make?
 
+## Bonus challenge: Overlapping Squares
+
+Here is a fun challenge from [Vivax Solutions](https://www.vivaxsolutions.com/web/python-turtle.aspx):
+
 ![squares](https://raw.githubusercontent.com/BreakoutMentors/Python-Resources/master/Turtle%20Graphics/turtle%20squares.gif)
+
+[Here is an example to get you started with filled in shapes.](https://trinket.io/library/trinkets/d53a2b5046)
