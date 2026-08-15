@@ -3,8 +3,8 @@
 
 [Processing Graphics Library](processing%20intro.md)
 - Challenge 1: Create a new Python file in Trinket to try out the example commands
-- Challenge 2: Make your own drawing. A happy face, robot, or house are good projects. Example: [Squidward Drawing](https://trinket.io/python/58b4d9d057)
-- Bonus challenge: Create your own function that you can use to easily draw something more complex. Start with this [Mickey Mouse Ears](https://trinket.io/library/trinkets/0872428a92) or [Random Fish](https://trinket.io/python/de55801c91) project (this [Happy Face Example](https://trinket.io/library/trinkets/a24fc5e9fc) may help if you want to scale the image size)
+- Challenge 2: Make your own drawing. A happy face, robot, or house are good projects. Example: [Squidward Drawing](https://trinket.strivemath.org/python/58b4d9d057)
+- Bonus challenge: Create your own function that you can use to easily draw something more complex. Start with this [Mickey Mouse Ears](https://trinket.strivemath.org/library/trinkets/0872428a92) or [Random Fish](https://trinket.strivemath.org/python/de55801c91) project (this [Happy Face Example](https://trinket.strivemath.org/library/trinkets/a24fc5e9fc) may help if you want to scale the image size)
 <br><br>
 
 [Mouse and Keyboard](mouse%20and%20keyboard.md)
@@ -12,10 +12,10 @@
 - Challenge 2: Can you create a small text label on the screen (not printed to the console) that shows the mouse location?
 - Challenge 3: Can you create a new shape whenever the mouse is clicked?
 - Challenge 4: Can you make your earlier drawing interactive depending upon where your mouse is? Ideas are changing the location of the eyes or background color.
-- Bonus challenge: Can you create a paint application? Example: [Paint](https://trinket.io/library/trinkets/f083bab647)
+- Bonus challenge: Can you create a paint application? Example: [Paint](https://trinket.strivemath.org/library/trinkets/f083bab647)
 <br><br>
 
-[Random Art](https://trinket.io/library/trinkets/3a0ad9e3a6)
+[Random Art](https://trinket.strivemath.org/library/trinkets/3a0ad9e3a6)
 - Challenge 1: Can you make the screen 600 x 600?
 - Challenge 2: Can you make each starburst have 8 lines?
 - Challenge 3: Can you add circles at random locations with a random color?
@@ -24,7 +24,7 @@
 - Bonus challenge: What would make it look cooler?
 <br><br>
 
-[Animation](https://trinket.io/library/trinkets/2081273daf)
+[Animation](https://trinket.strivemath.org/library/trinkets/2081273daf)
 - Challenge 1: Can you make the ball appear lower on the screen?
 - Challenge 2: Can you make the ball go twice as fast?
 - Challenge 3: Can you switch the ball's direction?
@@ -33,18 +33,18 @@
 - Challenge 6: Can you add an image that travels in both the x and y directions, bouncing off all four walls?
 <br><br>
 
-[Animation with Lists](https://trinket.io/library/trinkets/cfa17d968e)
+[Animation with Lists](https://trinket.strivemath.org/library/trinkets/cfa17d968e)
 - Challenge 1: Can you change it to a left to right movement for the balls?
 - Challenge 2: Can you add a character that goes to where the mouse is to make it look more like a shooting motion?
 - Bonus challenge: What would make it look cooler?
 <br><br>
 
-[Ball Splitting Animation](https://trinket.io/library/trinkets/13aab8492f)
+[Ball Splitting Animation](https://trinket.strivemath.org/library/trinkets/13aab8492f)
 - Challenge 1: Read the code to see how it works
 - Challenge 2: Can you make it split into 3 instead of 2?
 - Bonus challenge: What would make it look cooler?
 <br><br>
 
 More Examples: 
-- [Star Drawing](https://trinket.io/python/518448abf3)
-- [Image Filters](https://trinket.io/python/7a8f129cc4)
+- [Star Drawing](https://trinket.strivemath.org/python/518448abf3)
+- [Image Filters](https://trinket.strivemath.org/python/7a8f129cc4)

@@ -54,7 +54,7 @@ Can you write recursive functions to print the [hailstone sequence](https://gith
 
 Graphics + recursion = fractals
 
-[Check out this example that is only recursive in the x direction](https://trinket.io/library/trinkets/eba0451250)
+[Check out this example that is only recursive in the x direction](https://trinket.strivemath.org/library/trinkets/eba0451250)
 
 ![1D Fractal](https://user-images.githubusercontent.com/1643783/85183847-1fd72300-b242-11ea-8333-edf117a92eaf.png)
 
@@ -64,13 +64,13 @@ Let's make the jump to two dimensional fractals. It can be hard to achieve a des
 
 <img src="https://user-images.githubusercontent.com/1643783/85184322-3da58780-b244-11ea-8533-812a018ff46c.png" width="400" height="400">
 
-Here is a good one to try ([finished code](https://trinket.io/library/trinkets/f2f68a18ee)):
+Here is a good one to try ([finished code](https://trinket.strivemath.org/library/trinkets/f2f68a18ee)):
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Sierpinski_carpet_5.svg/500px-Sierpinski_carpet_5.svg.png" width="400" height="400">
 
 Can you draw the square in the middle and make 8 recursive calls? Can you use size for the base case instead of manually counting the depth? Hint: it can be difficult to jump to a perfect resursive call each time. I sometimes like to manually calculate the locations for the next level, which helps me see the math equation for the recursive call.
 
-Tree fractals with lines can be made when using a helper function to calculate x, y based on angle, length. [Here is a starter file](https://trinket.io/library/trinkets/9a3d7050a8).
+Tree fractals with lines can be made when using a helper function to calculate x, y based on angle, length. [Here is a starter file](https://trinket.strivemath.org/library/trinkets/9a3d7050a8).
 
 <img src="https://user-images.githubusercontent.com/1643783/85425676-548ef700-b52e-11ea-9e2e-fd36585adb03.jpg" width="400" height="400">
 
@@ -108,7 +108,7 @@ ELSE:
 
 [Go here to step through that recursive algorithm for 5 discs](https://www.cs.cmu.edu/~cburch/survey/recurse/hanoiex.html). Pretty impressive! That same algorithm can solve it for any size, as long as there is enough time.
 
-[Here is starter code for you to do your own implementation](https://trinket.io/library/trinkets/6e1fc5f079) (and peek at the [finished version](https://trinket.io/library/trinkets/fc5fd4efe0) if needed). It is a perfect use case for the provided Stack data structure, pushing and popping elements.
+[Here is starter code for you to do your own implementation](https://trinket.strivemath.org/library/trinkets/6e1fc5f079) (and peek at the [finished version](https://trinket.strivemath.org/library/trinkets/fc5fd4efe0) if needed). It is a perfect use case for the provided Stack data structure, pushing and popping elements.
 
 This shows the magic of recursion: imagine solving this with loops somehow. Also mind blowing - where is the rule "we can never place a larger disk on a smaller one" programmed?
 

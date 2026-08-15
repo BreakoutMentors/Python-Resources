@@ -19,7 +19,7 @@ With such a small example it may seem more complex than just storing the numbers
 
 Say you were in charge of giving out Social Security Numbers to newborns. Your strategy is to pick 9 random digits, then look up to see if it has been used already. There are hundreds of millions of people with a SSN - do you want to look through a list / array one by one to see if a given number is already used? If you stored them as a binary tree though, you can take advantage of the smaller / larger comparision to cut your search in half each time. The tree gets exponentially smaller as you go.
 
-This is show in the [number guessing game tree code](https://trinket.io/library/trinkets/4b175d57d7). The tree is implemented with a very simple Node Class:
+This is show in the [number guessing game tree code](https://trinket.strivemath.org/library/trinkets/4b175d57d7). The tree is implemented with a very simple Node Class:
 ```python
 class Node:
   
@@ -59,7 +59,7 @@ If the tree doesn't already contain the number, insert it
 
 This makes use of the contains and insert functions that were already created for you. As a bonus challenge, see if you can add a count function that counts the total number of nodes in the tree (look at how the recursion was done for the others).
 
-[Here is a finished example if you need it](https://trinket.io/library/trinkets/69d9c700cb)
+[Here is a finished example if you need it](https://trinket.strivemath.org/library/trinkets/69d9c700cb)
 
 ## Mario Moves
 
@@ -81,7 +81,7 @@ Generate a tree with all the valid moves and display it.
 
 Bonus challenge: write a function for the tree to return the total number of paths possible. Hint: count the terminating leaf nodes using recursion.
 
-[Here is a finished example if you need it](https://trinket.io/library/trinkets/2b0603d822)
+[Here is a finished example if you need it](https://trinket.strivemath.org/library/trinkets/2b0603d822)
 
 ## Subtract Game
 
@@ -96,7 +96,7 @@ The gameplay can be stored as a tree:
 
 ![tree image](https://user-images.githubusercontent.com/1643783/86969814-38d94280-c123-11ea-8f37-008429b77166.png)
 
-The code for it is a little hard to understand, but [here it is](https://trinket.io/library/trinkets/f99f83edff) from a [UC Berkeley Computer Science course](https://drive.google.com/drive/folders/1JDzC1WS13oQlsgLhUznfk-U-65GiZ8rK). (The code uses list comprehension, a cool Python feature, [see some simple examples here](https://trinket.io/library/trinkets/74cd81d38a))
+The code for it is a little hard to understand, but [here it is](https://trinket.strivemath.org/library/trinkets/f99f83edff) from a [UC Berkeley Computer Science course](https://drive.google.com/drive/folders/1JDzC1WS13oQlsgLhUznfk-U-65GiZ8rK). (The code uses list comprehension, a cool Python feature, [see some simple examples here](https://trinket.strivemath.org/library/trinkets/74cd81d38a))
 
 The gist of a "strong solution" is in [this slide deck](https://drive.google.com/file/d/1nQY67Q1S3jXWGzR8sNrKNdDoe45tMiml/view) from the course. On your turn the game is at a certain state. Each possible move you can make results in a new gamestate that are all the children nodes. You win if there exists a node where the other player loses. You lose if all the children result in the other player winning. 
 
@@ -114,4 +114,4 @@ The one who has to pick the final stick will be the loser.
 
 Start a new project and copy over the code from the last game. What changes do you need to make for these new rules? Once you print out all the values, what is the optimal strategy?
 
-[Here is a finished example if you need it](https://trinket.io/library/trinkets/f9a1a79b38)
+[Here is a finished example if you need it](https://trinket.strivemath.org/library/trinkets/f9a1a79b38)

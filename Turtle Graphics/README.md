@@ -1,6 +1,6 @@
 # Turtle Graphics
 
-There is another way to use graphics in Trinket: with the turtle. It is similar to the Pen tool in Scratch, it can trace wherever you tell the turtle to go. [Check out this example with all the basic commands you need.](https://trinket.io/library/trinkets/e9439f4079) 
+There is another way to use graphics in Trinket: with the turtle. It is similar to the Pen tool in Scratch, it can trace wherever you tell the turtle to go. [Check out this example with all the basic commands you need.](https://trinket.strivemath.org/library/trinkets/e9439f4079) 
 
 ## Challenge 1: Make a Triangle and Square
 
@@ -44,7 +44,7 @@ Here is a fun challenge from [Vivax Solutions](https://www.vivaxsolutions.com/we
 
 ![squares](https://raw.githubusercontent.com/BreakoutMentors/Python-Resources/master/Turtle%20Graphics/turtle%20squares.gif)
 
-[Here is an example to get you started with filled in shapes.](https://trinket.io/library/trinkets/d53a2b5046) Be sure to use functions to keep your code short and readable. It will also allow you to easily switch to using a different shape if you want.
+[Here is an example to get you started with filled in shapes.](https://trinket.strivemath.org/library/trinkets/d53a2b5046) Be sure to use functions to keep your code short and readable. It will also allow you to easily switch to using a different shape if you want.
 
 ## Bonus challenge: Lists and Conditionals
 

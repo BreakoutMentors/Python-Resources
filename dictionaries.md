@@ -71,7 +71,7 @@ is a successor to '.'). See the example below:
 'eat'], 'investigate': [','], 'catch': ['bad'], 'guys': ['and'], 'eat': ['pie'], 'came': ['to']}
 ```
 
-[Here is the starter code](https://trinket.io/library/trinkets/111bae66a7) (and a [finished example](https://trinket.io/library/trinkets/42f790558a) if you need it)
+[Here is the starter code](https://trinket.strivemath.org/library/trinkets/111bae66a7) (and a [finished example](https://trinket.strivemath.org/library/trinkets/42f790558a) if you need it)
 
 
 
@@ -98,7 +98,7 @@ catalogs have several different ways to uniquely identify stars. The fields that
 include the x and y coordinates, the magnitude, the Henry Draper number, and the name (or names) of each star.
 ```
 
-[Here is the starter file](https://trinket.io/library/trinkets/35352da3a3). Your goal is to finish the read_coords function. It returns three dictionaries that contain the information of the stars.txt file in a useful data structure. 
+[Here is the starter file](https://trinket.strivemath.org/library/trinkets/35352da3a3). Your goal is to finish the read_coords function. It returns three dictionaries that contain the information of the stars.txt file in a useful data structure. 
 
 ```
 The first is keyed on the Henry Draper number and the values are tuples containing the x and y coordinates of each star. 
@@ -112,4 +112,4 @@ represented in the third dictionary.
 
 Once you have the stars plotted, finish the load_constellations function. The file reading it done already, your goal is to use the star pairs to determine the coordinates to draw lines between. This will require using two of the dictionaries you created in the read_coords function.
 
-And if you get stuck, here is a [finished example](https://trinket.io/library/trinkets/5feab16dff)
+And if you get stuck, here is a [finished example](https://trinket.strivemath.org/library/trinkets/5feab16dff)

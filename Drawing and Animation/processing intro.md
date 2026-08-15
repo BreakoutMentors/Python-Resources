@@ -1,7 +1,7 @@
 # Processing Graphics Intro
 
 ## Setup
-To use the graphics library, see [this project](https://trinket.io/library/trinkets/2a112790dc) with the basic structure.
+To use the graphics library, see [this project](https://trinket.strivemath.org/library/trinkets/2a112790dc) with the basic structure.
 
 You need to `import` the code, then create the `setup()` and `draw()` functions that will be used when you call `run()`.
 
@@ -64,4 +64,4 @@ text("Hello World", 250, 380)
 ## Images
 First find an image you want to use on the internet. PNGs can have transparent backgrounds.
 
-Take a look at this [image example](https://trinket.io/library/trinkets/2b1216561d).
+Take a look at this [image example](https://trinket.strivemath.org/library/trinkets/2b1216561d).
