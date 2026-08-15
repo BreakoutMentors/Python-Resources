@@ -19,7 +19,7 @@ With such a small example it may seem more complex than just storing the numbers
 
 Say you were in charge of giving out Social Security Numbers to newborns. Your strategy is to pick 9 random digits, then look up to see if it has been used already. There are hundreds of millions of people with a SSN - do you want to look through a list / array one by one to see if a given number is already used? If you stored them as a binary tree though, you can take advantage of the smaller / larger comparision to cut your search in half each time. The tree gets exponentially smaller as you go.
 
-This is show in the [number guessing game tree code](https://trinket.strivemath.org/library/trinkets/4b175d57d7). The tree is implemented with a very simple Node Class:
+This is show in the [number guessing game tree code](https://trinket.strivemath.org/library/trinkets/cd1e79cc92d2). The tree is implemented with a very simple Node Class:
 ```python
 class Node:
   
@@ -114,4 +114,4 @@ The one who has to pick the final stick will be the loser.
 
 Start a new project and copy over the code from the last game. What changes do you need to make for these new rules? Once you print out all the values, what is the optimal strategy?
 
-[Here is a finished example if you need it](https://trinket.strivemath.org/library/trinkets/f9a1a79b38)
+[Here is a finished example if you need it](https://trinket.strivemath.org/library/trinkets/8e77a375fda6)

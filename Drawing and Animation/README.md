@@ -3,7 +3,7 @@
 
 [Processing Graphics Library](processing%20intro.md)
 - Challenge 1: Create a new Python file in Trinket to try out the example commands
-- Challenge 2: Make your own drawing. A happy face, robot, or house are good projects. Example: [Squidward Drawing](https://trinket.strivemath.org/python/58b4d9d057)
+- Challenge 2: Make your own drawing. A happy face, robot, or house are good projects. Example: [Squidward Drawing](https://trinket.strivemath.org/python/681bf93b156a)
 - Bonus challenge: Create your own function that you can use to easily draw something more complex. Start with this [Mickey Mouse Ears](https://trinket.strivemath.org/library/trinkets/0872428a92) or [Random Fish](https://trinket.strivemath.org/python/de55801c91) project (this [Happy Face Example](https://trinket.strivemath.org/library/trinkets/a24fc5e9fc) may help if you want to scale the image size)
 <br><br>
 
@@ -46,5 +46,5 @@
 <br><br>
 
 More Examples: 
-- [Star Drawing](https://trinket.strivemath.org/python/518448abf3)
+- [Star Drawing](https://trinket.strivemath.org/python/d4f7d9403494)
 - [Image Filters](https://trinket.strivemath.org/python/7a8f129cc4)

@@ -31,11 +31,11 @@
 <br><br>
 
 More Examples: 
-- [Mouse Maze](https://trinket.strivemath.org/python/01ad6f3b2a)
-- [Flappy Bird](https://trinket.strivemath.org/python/abc1389776)
-- [Breakout](https://trinket.strivemath.org/python/f3532e2f34)
-- [Sling Shot](https://trinket.strivemath.org/python/332349ead6)
-- [Paint Reflect](https://trinket.strivemath.org/python/9252c5936a)
+- [Mouse Maze](https://trinket.strivemath.org/python/3dd04511fff2)
+- [Flappy Bird](https://trinket.strivemath.org/python/922d43ae474f)
+- [Breakout](https://trinket.strivemath.org/python/bb526f23ee60)
+- [Sling Shot](https://trinket.strivemath.org/python/2998fd476a70)
+- [Paint Reflect](https://trinket.strivemath.org/python/f18d348940a4)
 - [Space Race](https://trinket.strivemath.org/python/2fe1bbf6b9)
 - [Memory card game](https://trinket.strivemath.org/library/trinkets/366dfda3bc)
 

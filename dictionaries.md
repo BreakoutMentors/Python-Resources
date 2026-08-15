@@ -71,7 +71,7 @@ is a successor to '.'). See the example below:
 'eat'], 'investigate': [','], 'catch': ['bad'], 'guys': ['and'], 'eat': ['pie'], 'came': ['to']}
 ```
 
-[Here is the starter code](https://trinket.strivemath.org/library/trinkets/111bae66a7) (and a [finished example](https://trinket.strivemath.org/library/trinkets/42f790558a) if you need it)
+[Here is the starter code](https://trinket.strivemath.org/library/trinkets/c670211e7dd4) (and a [finished example](https://trinket.strivemath.org/library/trinkets/4547f8110a42) if you need it)
 
 
 
